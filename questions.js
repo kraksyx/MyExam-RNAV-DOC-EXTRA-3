@@ -1,3 +1,4 @@
+
 const questions = [
   {
     "question": "Which of the following statements concerning DGPS is true?",
@@ -70,4 +71,3 @@ const questions = [
     "correct": 0
   }
 ];
-export default questions;
